@@ -20,7 +20,7 @@ This system implements a sequential pipeline where three LLM agents work togethe
 
 1. Clone the repository:
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/NikolozR/llm_systems_hw2
 cd llm_systems_hw2
 ```
 
@@ -68,8 +68,8 @@ llm_systems_hw2/
 │   └── training_tools.py      # Model training utilities
 ├── data/
 │   ├── raw_data.csv          # Input dataset
-│   ├── clean_data.csv        # Cleaned dataset
-│   └── engineered_data.csv   # Engineered features
+│   ├── clean_data.csv        # Cleaned dataset, will be created by Data Cleaner
+│   └── engineered_data.csv   # Engineered features, will be created by Feature Engineer
 ├── main.py                    # Pipeline orchestration
 ├── generate_sample_data.py   # Sample data generator
 ├── FINAL_REPORT.md           # Generated report
