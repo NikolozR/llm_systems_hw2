@@ -1,0 +1,101 @@
+MatchID,Opponent,Venue,Possession,ShotsOnTarget,Corners,YellowCards,InjuredStarters,DaysRest,Weather,ArsenalWin
+1,Brighton,Away,,13.0,10,4,4,7,Rain,0
+2,Spurs,Away,63.99980123443719,8.0,9,5,3,3,Clear,0
+3,Man Utd,Home,40.29591744712301,2.0,1,0,0,4,nan,0
+4,Brighton,Away,33.464095942295685,8.0,9,4,4,3,Windy,1
+5,Chelsea,Home,43.03881538111956,12.0,0,5,0,4,Rain,1
+6,Man Utd,Away,37.2549579264302,1.0,7,3,2,4,Windy,0
+7,Man Utd,Away,71.83639435541579,13.0,0,4,0,7,Rain,1
+8,Brighton,Home,,1.0,8,0,0,3,Clear,0
+9,Liverpool,Away,58.503169042969056,1.0,10,5,0,7,Windy,1
+10,Chelsea,Home,69.2157265584473,5.0,5,5,3,3,Rain,0
+11,Brighton,Away,66.16524346046015,2.0,6,5,0,3,Clear,1
+12,Chelsea,Home,38.395652649871614,12.0,9,3,4,6,Windy,1
+13,Chelsea,Home,70.165154932049,8.0,6,4,2,3,Windy,0
+14,Man Utd,Away,54.270400886204285,,9,3,2,7,Rain,1
+15,Spurs,Away,66.33480698238282,0.0,2,1,0,4,Rain,0
+16,Chelsea,Home,70.3241084965572,3.0,1,1,3,3,Rain,0
+17,Aston Villa,Away,44.310156373733875,0.0,8,4,3,6,Clear,0
+18,Man Utd,Away,34.95233660374545,13.0,7,3,4,7,Rain,0
+19,Liverpool,Away,40.257082314387375,4.0,11,0,0,3,Windy,1
+20,Spurs,Home,49.219850488181535,3.0,9,5,2,7,Windy,1
+21,Aston Villa,Home,66.8106644665122,7.0,6,5,3,6,Rain,1
+22,Aston Villa,Home,68.73287624653545,7.0,8,4,0,6,Rain,0
+23,Liverpool,Home,30.31284587390358,6.0,3,1,3,7,nan,1
+24,Spurs,Home,52.983628615990455,2.0,3,1,3,3,Windy,0
+25,Man Utd,Home,48.783495141695056,0.0,0,5,2,4,Clear,1
+26,Man City,Home,,0.0,7,4,1,6,nan,1
+27,Spurs,Home,35.393941530015724,11.0,11,3,4,3,Rain,1
+28,Liverpool,Home,45.19268271316326,,2,1,4,3,Rain,0
+29,Aston Villa,Away,72.43093667606337,2.0,6,3,2,4,Windy,1
+30,Man Utd,Home,44.54413194093399,5.0,11,1,3,6,Rain,1
+31,Spurs,Away,53.34557797845147,6.0,1,1,0,6,Clear,0
+32,Man City,Away,61.635853150283005,5.0,1,2,3,3,Windy,1
+33,Man City,Away,46.36333210706823,13.0,6,1,2,3,Rain,0
+34,Chelsea,Home,73.73019372244323,13.0,5,0,4,4,Windy,1
+35,Chelsea,Home,73.310128272395,5.0,2,4,3,4,Rain,0
+36,Brighton,Home,,5.0,8,4,4,6,Rain,0
+37,Liverpool,Home,52.376182765157346,12.0,9,3,0,7,Rain,1
+38,Spurs,Away,43.53952394175464,2.0,5,1,4,6,Clear,0
+39,Spurs,Home,42.81782224698604,5.0,9,0,4,3,Clear,0
+40,Brighton,Home,31.659912630953976,7.0,9,3,1,6,Windy,0
+41,Aston Villa,Home,57.43039502909536,10.0,5,2,1,7,Rain,0
+42,Aston Villa,Home,52.62055604529877,10.0,0,3,1,4,Rain,0
+43,Brighton,Home,32.31654380624952,1.0,3,3,4,7,Clear,0
+44,Aston Villa,Away,42.539090890647515,4.0,9,1,2,7,Rain,1
+45,Chelsea,Home,70.87196486849942,13.0,5,2,4,7,Clear,0
+46,Spurs,Away,40.78028508001376,0.0,5,3,2,4,Rain,0
+47,Brighton,Home,,11.0,10,0,2,7,Windy,1
+48,Spurs,Away,52.025374212490334,14.0,11,0,1,7,Rain,1
+49,Man City,Home,74.35427043497702,0.0,4,4,3,7,Rain,1
+50,Chelsea,Home,40.89248721801752,4.0,0,2,0,3,nan,1
+51,Man Utd,Away,60.246099633264535,11.0,7,2,1,7,Clear,1
+52,Chelsea,Away,,12.0,4,4,1,4,Rain,1
+53,Brighton,Away,40.693689479657984,2.0,11,3,3,7,Rain,1
+54,Man Utd,Home,62.76973568753368,3.0,11,2,0,7,nan,0
+55,Man City,Away,46.550240972366396,2.0,11,0,4,4,nan,0
+56,Brighton,Home,,0.0,4,0,4,7,Clear,1
+57,Liverpool,Home,58.50883698424026,0.0,6,1,1,4,nan,0
+58,Spurs,Away,54.109860783364134,11.0,3,2,0,7,Windy,0
+59,Man City,Away,34.063039652448374,11.0,5,3,1,4,nan,0
+60,Spurs,Home,67.58861230151571,13.0,3,4,2,7,Windy,1
+61,Aston Villa,Home,44.43510292372811,12.0,2,4,1,7,Clear,1
+62,Liverpool,Away,38.39333296799344,13.0,6,3,1,3,Clear,0
+63,Liverpool,Away,31.834881369964375,4.0,7,5,4,3,Clear,1
+64,Man City,Away,56.59018244347088,5.0,3,1,4,7,Clear,0
+65,Liverpool,Home,60.49039628290271,2.0,1,4,4,7,Clear,0
+66,Man Utd,Home,30.74645230175353,11.0,11,2,2,6,Windy,0
+67,Liverpool,Home,53.04418762346764,8.0,9,1,4,4,Windy,0
+68,Spurs,Home,40.19230988390721,4.0,2,2,0,6,Clear,1
+69,Spurs,Home,59.032775568425244,7.0,0,0,3,3,nan,1
+70,Brighton,Home,37.846489305224615,12.0,7,1,0,3,Rain,1
+71,Spurs,Away,61.09219821461097,0.0,2,4,0,3,Clear,0
+72,Brighton,Home,47.40309058352418,13.0,11,1,4,3,nan,1
+73,Spurs,Home,72.15284949315306,4.0,9,1,3,7,Rain,0
+74,Man Utd,Home,36.1884424865697,14.0,6,1,3,3,Clear,1
+75,Brighton,Away,45.347985797261636,2.0,9,5,3,7,Clear,0
+76,Chelsea,Home,35.10630845582651,11.0,4,1,2,7,Windy,0
+77,Aston Villa,Home,71.61121282253532,0.0,9,2,4,3,Rain,0
+78,Man City,Away,69.48027090214414,,4,0,3,3,Rain,1
+79,Spurs,Home,,14.0,6,3,2,4,nan,1
+80,Liverpool,Home,59.69928207153806,12.0,8,1,1,6,Windy,1
+81,Spurs,Home,66.77499900905471,4.0,11,4,1,3,Windy,1
+82,Liverpool,Home,54.9840365219758,6.0,4,1,2,4,Windy,0
+83,Aston Villa,Home,53.83427602602029,0.0,0,4,2,4,Windy,1
+84,Aston Villa,Away,40.88335309052032,2.0,9,2,4,6,Rain,1
+85,Aston Villa,Away,34.18962455126547,1.0,9,4,4,7,Rain,0
+86,Liverpool,Away,,8.0,0,3,1,3,Clear,0
+87,Spurs,Home,70.51881257234987,,1,0,3,6,Clear,0
+88,Aston Villa,Home,58.48956557729706,14.0,5,4,1,3,Windy,1
+89,Man Utd,Home,45.25634059719153,5.0,8,4,3,4,Windy,0
+90,Brighton,Away,45.71443085756974,,7,0,3,4,Windy,0
+91,Liverpool,Home,62.668005549160775,2.0,4,3,4,7,Clear,0
+92,Liverpool,Home,70.36996169786597,7.0,0,1,0,4,nan,1
+93,Spurs,Away,69.91888909193028,13.0,6,4,0,4,nan,0
+94,Liverpool,Home,65.09439956359307,7.0,4,0,2,6,Clear,1
+95,Liverpool,Away,58.89142407694295,1.0,5,2,4,3,Clear,1
+96,Aston Villa,Away,33.7862984247772,14.0,6,0,3,3,Clear,0
+97,Spurs,Away,37.273292134257616,5.0,2,2,0,6,Clear,0
+98,Aston Villa,Home,70.43493848371857,6.0,11,3,3,7,Clear,1
+99,Brighton,Home,,1.0,9,1,0,3,Clear,0
+100,Brighton,Home,30.413867322748334,14.0,2,0,0,4,Windy,0
